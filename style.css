@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+
+    margin: 0;
+}
+
+#settings {
+    background-color: rgb(58, 58, 58);
+    padding: 10px;
+}
+
+#maze_display {
+    width: 10000px;
+    line-height: 0;
+}
+
+#container {
+    overflow: auto;
+}

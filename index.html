@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="settings">
+        <span>
+            Maze Generator -
+        </span>
+        <span>
+            <label for="width">Width: </label>
+            <input type="number" id="width" 
+                    min="5" max="200" value="25">
+        </span>
+        <span>
+            <label for="height">Height: </label>
+            <input type="number" id="height" 
+                min="5" max="200" value="25">
+        </span>
+        <button onclick="create_maze()">Create Maze</button>
+        <button onclick="download_maze()">Download</button>
+    </div>
+    <div id="container">
+        <div id="maze_display">
+
+        </div>
+    </div>
+</body>
+<script src="maze.js"></script>
+
+</html>
