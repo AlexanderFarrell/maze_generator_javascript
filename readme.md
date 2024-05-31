@@ -12,12 +12,12 @@ Wikipedia has an incredible article with really helpful animations for understan
 
 |                Item                |                       Description                        |
 |------------------------------------|----------------------------------------------------------|
-| [closed.png](./closed.png)         |                                                          |
+| [media](./media)                   | Screenshots and the main thumbnail                       |
+| [closed.png](./closed.png)         | An image of a closed tile                                |
 | [index.html](./index.html)         | Describes our webpage                                    |
-| [maze.js](./maze.js)               |                                                          |
-| [open.png](./open.png)             |                                                          |
+| [maze.js](./maze.js)               | **The main code**                                        |
+| [open.png](./open.png)             | An image of an open tile.                                |
 | [style.css](./style.css)           | Adds colors, formatting, and other styles to the webpage |
-| [thumbnail2.png](./thumbnail2.png) |                                                          |
 
 # Screenshot
 
