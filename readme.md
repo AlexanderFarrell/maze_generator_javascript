@@ -6,7 +6,7 @@ This project is a mini-maze generator using HTML, CSS and JavaScript. We use the
 
 Wikipedia has an incredible article with really helpful animations for understanding several methods of creating mazes. [Have a look at the article](https://en.wikipedia.org/wiki/Maze_generation_algorithm)!
 
-![Thumbnail](./thumbnail2.webp)
+![Thumbnail](./media/thumbnail2.webp)
 
 ## Navigation
 
@@ -21,4 +21,4 @@ Wikipedia has an incredible article with really helpful animations for understan
 
 # Screenshot
 
-![Screenshot of Maze Generator](./screenshot.webp)
+![Screenshot of Maze Generator](./media/screenshot.webp)
