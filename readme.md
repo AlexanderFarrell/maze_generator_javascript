@@ -1,6 +1,6 @@
 # Maze Generator JavaScript
 
-This project is a mini-maze generator using HTML, CSS and JavaScript. We use the depth-first search algorithm to dig through a 2D array of solid tiles, continuing to dig in random directions until every possible tile is dug!
+This project is a mini-maze generator using HTML, CSS and JavaScript. We use the depth-first search algorithm to dig through a 2D array of solid tiles, continuing to dig in random directions until every possible tile is dug! You can even download a text file of your generated mazes!
 
 [There is a video on YouTube](https://www.youtube.com/watch?v=Qfajj84oGUo) describing each part of this code step by step, and with various concepts drawn out!
 
